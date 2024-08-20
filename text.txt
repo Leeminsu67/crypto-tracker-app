@@ -1,0 +1,9 @@
+/ -> All coins
+/:id -> /btc -> Coin Detail
+
+Nested(중첩된) Router를 사용
+Nested Router
+한 스크린 내에 또다른 Router를 가질 수 있는것
+
+btc/information
+btc/chart
